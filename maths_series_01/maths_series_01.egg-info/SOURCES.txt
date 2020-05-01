@@ -1,0 +1,11 @@
+README.md
+setup.py
+maths_series_01/__init__.py
+maths_series_01/__init__.pyc
+maths_series_01/maths_series_package.py
+maths_series_01/maths_series_package.pyc
+maths_series_01/test_maths_series_package.py
+maths_series_01.egg-info/PKG-INFO
+maths_series_01.egg-info/SOURCES.txt
+maths_series_01.egg-info/dependency_links.txt
+maths_series_01.egg-info/top_level.txt
